@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufzaidi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codeatlas89&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -57,15 +57,15 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yusufzaidi924&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yusufzaidi924&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufzaidi924&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=codeatlas89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codeatlas89&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeatlas89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yusufzaidi924&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=codeatlas89&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yusufzaidi924&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=codeatlas89&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
