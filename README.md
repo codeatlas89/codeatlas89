@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Yusuf Zaidi 👋</h1>
-<h3 align="center">Senior Software Engineer | 6+ Years Experience | Mern Stack | Django</h3>
+<h1 align="center">Hi, I'm Logan Sandoval 👋</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yusufzaidi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,13 +9,13 @@
 
 ### 👨‍💻 About Me
 
-🎯 Results-driven **Senior Software Engineer** with 6+ years of experience delivering **scalable, high-performance full-stack applications** with a strong focus on **backend engineering**.  
+🎯 Results-driven **Senior Software Engineer** with 10+ years of experience delivering **scalable, high-performance full-stack applications** with a strong focus on **backend engineering**.  
 
 💡 I specialize in:
-- **Backend Development**: Node.js, Django, Express.js — building scalable REST & GraphQL APIs  
-- **Frontend Engineering**: React.js, Next.js — modern, performant, and responsive UIs  
-- **Databases**: MongoDB, PostgreSQL, MySQL — optimized queries and high-performance design  
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD pipelines — automating deployments and scaling infrastructure  
+- **Frontend Engineering**: React.js, Next.js, Vue.js, Angular — modern, performant, and responsive UIs  
+- **Backend Development**: Node.js, Express.js, Django, Flask, FastAPI, ASP.NET, GoLang, SpringBoot — building scalable REST & GraphQL APIs  
+- **Databases**: MongoDB, PostgreSQL, MySQL, MSSQL — optimized queries and high-performance design  
+- **DevOps & Cloud**: Docker, Kubernetes, AWS, Azure CI/CD pipelines — automating deployments and scaling infrastructure  
 
 🤝 Passionate about **clean code, system design, and mentoring engineers** while driving innovation and product excellence.
 
@@ -30,16 +30,17 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-#### 🧱 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 #### 🎨 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### 🧱 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 #### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -70,9 +71,9 @@
 
 ### 📫 Contact Me
 
-- 📧 **Email**: [yusuf.zaidi924@gmail.com](mailto:yusuf.zaidi924@gmail.com)  
-- 🏠 **Location**: Austin, TX 78717  
+- 📧 **Email**: [logansandoval190@gmail.com](mailto:logansandoval190@gmail.com)  
+- 🏠 **Location**: Arvada, CO 80005  
 - 🔗 **Portfolio**: [yusuf-zaidi.vercel.app](https://yusuf-zaidi.vercel.app/)  
-- 🔗 **LinkedIn**: [linkedin.com/in/yusuf-zaidi-575a3437b](https://www.linkedin.com/in/yusuf-zaidi-575a3437b/)  
+- 🔗 **LinkedIn**: [linkedin.com/in/logansandoval123](https://www.linkedin.com/in/logansandoval123/)  
 
 ---
